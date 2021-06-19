@@ -1,9 +1,9 @@
 # b-mbf
-Ga semua fb one tap:v
+Ngga semua fb one tap:v
 
 $ pkg update && pkg upgrade
 
-$ pkg install python2 
+$ pkg install python2
 
 $ pip2 install mechanize
 
