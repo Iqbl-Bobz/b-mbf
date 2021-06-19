@@ -13,6 +13,6 @@ $ pkg install git
 
 $ git clone https://github.com/Iqbl-Bobz/b-mbf
 
-$ cd b-mbf.py
+$ cd b-mbf
 
 $ python2 b-mbf.py
