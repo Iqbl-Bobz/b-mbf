@@ -18,7 +18,7 @@ $ cd b-mbf
 $ python2 b-mbf.py
 
 
-############################
+###########################
 Password List Script Di Atas
 > nama123
 > nama1234
